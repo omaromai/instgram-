@@ -1,9 +1,3 @@
-import os
-os.system('pip install telebot') 
-os.system('pip install requests')
-os.system('pip install OneClick')
-os.system('pip install sys')
-os.system('pip install uuid')
 import requests
 import telebot
 from telebot import types
